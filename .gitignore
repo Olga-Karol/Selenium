@@ -1,1 +1,6 @@
 /pom.xml
+/Selenium.iml
+/target/
+/src/main/
+/.idea/
+/src/test/resources/
